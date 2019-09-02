@@ -82,6 +82,9 @@ for(let e of foo())
 ````
 
 **新知识点学习**
+
+// 扩展阅读 《可迭代协议》: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Iteration_protocols
+
 异步的 `for of`
 ```js
 // 每秒打印一个数字
